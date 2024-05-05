@@ -1,11 +1,11 @@
 <h3 align="center">
-	<img src="public/S2LogoMini.svg" width="100px" height="100px" alt="Logo"/>
+	<img src="public/S2LogoMini.svg" width="150px" height="150px" alt="Logo"/>
   <br/>
 	<img src="public/transparent.png" height="30" width="0px"/>
-	<h3 align="center">Open S2</h3>
-  <h6 align="center" style="font-weight: bold">
+	<div align="center" style="font-weight: bold; font-size: 48px">Open S2</div>
+  <h4 align="center" style="font-weight: bold">
     <a href="http://ipa-reader.xyz/?text=%CB%88o%CA%8A.p%C9%99n%20%C9%9Bs%20tu">/ˈoʊ.pən ɛs tu/</a>
-  </h6>
+  </h4>
 	<img src="public/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -34,7 +34,7 @@
 
 &nbsp;
 
-<p align="center">
+<p align="center" style="font-size: 18px">
   Modern tools built using the latest technology available. Create your next geo service using the most advanced digital software in the world.
 </p>
 
