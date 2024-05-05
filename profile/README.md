@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="public/S2Logo.svg" width="100" alt="Logo"/>
+	<img src="public/S2LogoMini.svg" width="100px" height="100px" alt="Logo"/>
   <br/>
 	<img src="public/transparent.png" height="30" width="0px"/>
 	<h3 align="center">Open S2</h3>
