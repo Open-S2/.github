@@ -10,7 +10,7 @@
 </h3>
 
 <div align="center" style="font-weight: bold">
-<a href="https://github.com/Open-S2">Homepage</a>
+<a href="https://opens2.com/">Homepage</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://opens2.com/docs">Documentation</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
@@ -21,7 +21,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+  <img src="public/s2-bar-svg" height="20px" />
 </p>
 
 <p align="center">
