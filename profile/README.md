@@ -21,7 +21,7 @@
 
 <br/>
 <p align="center">
-  <img src="public/s2-bar-svg" height="20px" />
+  <img src="public/s2-bar.svg" height="20" width="400" />
 </p>
 
 <p align="center">
