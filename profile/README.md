@@ -1,7 +1,7 @@
 <h3 align="center">
-	<img src="public/S2LogoMini.svg" width="150px" height="150px" alt="Logo"/>
+	<img src="https://raw.githubusercontent.com/Open-S2/.github/master/public/S2LogoMini.svg" width="150px" height="150px" alt="Logo"/>
   <br/>
-	<img src="public/transparent.png" height="30" width="0px"/>
+	<img src="https://raw.githubusercontent.com/Open-S2/.github/master/public/transparent.png" height="30" width="0px"/>
 	<h3 align="center" style="font-weight: bold">Open S2</h3>
   <h4 align="center" style="font-weight: bold">
     <a href="http://ipa-reader.xyz/?text=%CB%88o%CA%8A.p%C9%99n%20%C9%9Bs%20tu">/ˈoʊ.pən ɛs tu/</a>
@@ -21,7 +21,7 @@
 
 <br/>
 <p align="center">
-  <img src="public/s2-bar.svg" height="30" width="435" />
+  <img src="https://raw.githubusercontent.com/Open-S2/.github/master/public/s2-bar.svg" height="30" width="435" />
 </p>
 
 <p align="center">
@@ -41,5 +41,5 @@
 &nbsp;
 
 <div align="center">
-  <img src="public/3d-cards.png" alt="Maps showcase" style="border-radius: 7px; max-width: 100%;"/>
+  <img src="https://raw.githubusercontent.com/Open-S2/.github/master/public/3d-cards.png" alt="Maps showcase" style="border-radius: 7px; max-width: 100%;"/>
 </div>
