@@ -38,8 +38,35 @@
   <strong>Modern tools built using the latest technology available. Create your next geo service using the most advanced digital software in the world.</strong>
 </p>
 
-&nbsp;
+**The Main Projects we Maintain**
+
+| Project                  | Role   | Languages         | Description                                                                                    |
+| ------------------------ | ------ | ----------------- | ---------------------------------------------------------------------------------------------- |
+| [s2maps-gpu]             | author | Typescript & Rust | High-performance, and GPU-accelerated map engine for rendering large-scale, interactive maps.  |
+| [open-vector-tile]       | author | Typescript & Rust | A new Vector Tile Spec that is backwards compatible with [mapbox-vector-tile].                 |
+| [earclip]                | author | Typescript & Rust | Fast and small polygon triangulation library with builtin tesselation.                         |
+| [glyph-gen]              | author | Typescript & C++  | Build MSDF glyphs from fonts and icons sets to be rendered by a GPU.                           |
+| [pbf-rs]                 | author | Rust              | Zero dependency, `no_std`, lightweight and fast library for protobuffers.                      |
+| [unicode-shaper-rs]      | author | Rust              | Zero dep, `no_std`, light & fast library to prepare complex unicode patters for rendering.     |
+| [s2-pmtiles]             | author | Typescript & Rust | This library reads/writes PMTiles V3.0 as well as S2PMTiles V1.0                               |
+| [s2-tilejson]            | author | Typescript & Rust | TileJSON is a mostly [backwards-compatible] open standard for representing map metadata.         |
+
+</br>
+</br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Open-S2/.github/master/public/3d-cards.png" alt="Maps showcase" style="border-radius: 7px; max-width: 100%;"/>
 </div>
+
+
+[s2maps-gpu]: https://github.com/Open-S2/s2maps-gpu
+[open-vector-tile]: https://github.com/Open-S2/open-vector-tile
+[earclip]: https://github.com/Open-S2/earclip
+[glyph-gen]: https://github.com/Open-S2/glyph-gen
+[pbf-rs]: https://github.com/Open-S2/pbf-rs
+[unicode-shaper-rs]: https://github.com/Open-S2/unicode-shaper-rust
+[s2-pmtiles]: https://github.com/Open-S2/s2-pmtiles
+[mapbox-vector-tile]: https://github.com/mapbox/vector-tile-js
+[s2-tilejson]: https://github.com/Open-S2/s2-tilejson
+[backwards-compatible]: https://github.com/mapbox/tilejson-spec
+
