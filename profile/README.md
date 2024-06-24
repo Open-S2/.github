@@ -49,7 +49,8 @@
 | [pbf-rs]                 | author | Rust              | Zero dependency, `no_std`, lightweight and fast library for protobuffers.                      |
 | [unicode-shaper-rs]      | author | Rust              | Zero dep, `no_std`, light & fast library to prepare complex unicode patters for rendering.     |
 | [s2-pmtiles]             | author | Typescript & Rust | This library reads/writes PMTiles V3.0 as well as S2PMTiles V1.0                               |
-| [s2-tilejson]            | author | Typescript & Rust | TileJSON is a mostly [backwards-compatible] open standard for representing map metadata.         |
+| [s2-tilejson]            | author | Typescript & Rust | TileJSON is a mostly [backwards-compatible] open standard for representing map metadata.       |
+| [s2json]                 | author | Typescript & Rust | S2JSON is a new standard build ontop of [GeoJSON] including 3D and S2 Geometry.                |
 
 </br>
 </br>
@@ -68,5 +69,7 @@
 [s2-pmtiles]: https://github.com/Open-S2/s2-pmtiles
 [mapbox-vector-tile]: https://github.com/mapbox/vector-tile-js
 [s2-tilejson]: https://github.com/Open-S2/s2-tilejson
+[s2json]: https://github.com/Open-S2/s2json
 [backwards-compatible]: https://github.com/mapbox/tilejson-spec
+[GeoJSON]: https://geojson.org/
 
