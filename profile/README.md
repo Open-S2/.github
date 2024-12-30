@@ -43,6 +43,7 @@
 | Project                  | Role   | Languages         | Description                                                                                    |
 | ------------------------ | ------ | ----------------- | ---------------------------------------------------------------------------------------------- |
 | [s2maps-gpu]             | author | Typescript & Rust | High-performance, and GPU-accelerated map engine for rendering large-scale, interactive maps.  |
+| [s2-tools]               | author | Typescript & Rust | A collection of geospatial tools primarily designed for WGS84, Web Mercator, and S2.           |
 | [open-vector-tile]       | author | Typescript & Rust | A new Vector Tile Spec that is backwards compatible with [mapbox-vector-tile].                 |
 | [earclip]                | author | Typescript & Rust | Fast and small polygon triangulation library with builtin tesselation.                         |
 | [glyph-gen]              | author | Typescript & C++  | Build MSDF glyphs from fonts and icons sets to be rendered by a GPU.                           |
@@ -61,6 +62,7 @@
 
 
 [s2maps-gpu]: https://github.com/Open-S2/s2maps-gpu
+[s2-tools]: https://github.com/Open-S2/s2-tools
 [open-vector-tile]: https://github.com/Open-S2/open-vector-tile
 [earclip]: https://github.com/Open-S2/earclip
 [glyph-gen]: https://github.com/Open-S2/glyph-gen
