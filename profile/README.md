@@ -4,7 +4,7 @@
 	<img src="https://raw.githubusercontent.com/Open-S2/.github/master/public/transparent.png" height="30" width="0px"/>
 	<h3 align="center" style="font-weight: bold">Open S2</h3>
   <h4 align="center" style="font-weight: bold">
-    <a href="http://ipa-reader.xyz/?text=%CB%88o%CA%8A.p%C9%99n%20%C9%9Bs%20tu">/ˈoʊ.pən ɛs tu/</a>
+    <a href="https://ipa-reader.com/?text=%CB%88o%CA%8A.p%C9%99n%20%C9%9Bs%20tu">/ˈoʊ.pən ɛs tu/</a>
   </h4>
 	<img src="public/transparent.png" height="30" width="0px"/>
 </h3>
