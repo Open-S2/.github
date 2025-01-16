@@ -21,7 +21,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Open-S2/.github/master/public/s2-bar.svg" height="30" width="435" />
+  <img src="https://raw.githubusercontent.com/Open-S2/.github/master/public/s2-bar.svg" height="30" width="590" />
 </p>
 
 <p align="center">
