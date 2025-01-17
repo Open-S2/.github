@@ -42,9 +42,9 @@
 
 &nbsp;
 
-**This Project is dedicated to maintaining 3 sections of modules:**
+**This Project is dedicated to maintaining 3 core components split into modules:**
 
-<h3>Specifications</h3>
+<h3>Data Specifications</h3>
 
 | Project                  | Role   | Languages         | Description                                                                                    |
 | ------------------------ | ------ | ----------------- | ---------------------------------------------------------------------------------------------- |
