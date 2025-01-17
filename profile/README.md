@@ -42,20 +42,34 @@
 
 &nbsp;
 
-**The Main Projects we Maintain**
+**This Project is dedicated to maintaining 3 sections of modules:**
+
+<h3>Specifications</h3>
+
+| Project                  | Role   | Languages         | Description                                                                                    |
+| ------------------------ | ------ | ----------------- | ---------------------------------------------------------------------------------------------- |
+| [open-vector-tile]       | author | Typescript & Rust | A new Vector Tile Spec that is backwards compatible with [mapbox-vector-tile].                 |
+| [s2-pmtiles]             | author | Typescript & Rust | This library reads/writes PMTiles V3.0 as well as S2PMTiles V1.0                               |
+| [s2-tilejson]            | author | Typescript & Rust | TileJSON is a mostly [backwards-compatible] open standard for representing map metadata.       |
+| [s2json]                 | author | Typescript & Rust | S2JSON is a new standard build ontop of [GeoJSON] including 3D and S2 Geometry.                |
+
+<h3>Mapping Engine tools</h3>
 
 | Project                  | Role   | Languages         | Description                                                                                    |
 | ------------------------ | ------ | ----------------- | ---------------------------------------------------------------------------------------------- |
 | [s2maps-gpu]             | author | Typescript & Rust | High-performance, and GPU-accelerated map engine for rendering large-scale, interactive maps.  |
-| [gis-tools]              | author | Typescript & Rust | A collection of geospatial tools primarily designed for WGS84, Web Mercator, and S2.           |
-| [open-vector-tile]       | author | Typescript & Rust | A new Vector Tile Spec that is backwards compatible with [mapbox-vector-tile].                 |
 | [earclip]                | author | Typescript & Rust | Fast and small polygon triangulation library with builtin tesselation.                         |
+| [unicode-shaper-rs]      | author | Rust              | Zero dep, `no_std`, light & fast library to prepare complex unicode patters for rendering.     |
+| style-engine (TBD)       | author | Typescript & Rust | A styling engine that uses [gis-tools] to build mapping data that can be used by [s2maps-gpu]. |
+
+<h3>Data Parsing/Tooling/Creation</h3>
+
+| Project                  | Role   | Languages         | Description                                                                                    |
+| ------------------------ | ------ | ----------------- | ---------------------------------------------------------------------------------------------- |
+| [gis-tools]              | author | Typescript & Rust | A collection of geospatial tools primarily designed for WGS84, Web Mercator, and S2.           |
 | [glyph-gen]              | author | Typescript & C++  | Build MSDF glyphs from fonts and icons sets to be rendered by a GPU.                           |
 | [pbf]                    | author | Typescript & Rust | Zero dependency, `no_std`, lightweight and fast library for protobuffers.                      |
-| [unicode-shaper-rs]      | author | Rust              | Zero dep, `no_std`, light & fast library to prepare complex unicode patters for rendering.     |
-| [s2-pmtiles]             | author | Typescript & Rust | This library reads/writes PMTiles V3.0 as well as S2PMTiles V1.0                               |
-| [s2-tilejson]            | author | Typescript & Rust | TileJSON is a mostly [backwards-compatible] open standard for representing map metadata.       |
-| [s2json]                 | author | Typescript & Rust | S2JSON is a new standard build ontop of [GeoJSON] including 3D and S2 Geometry.                |
+| gis-pipelines (TBD)      | author | Typescript & Rust | A collection of scripts to scrape, parse, and build GIS data from a variety of online sources. |
 
 </br>
 </br>
