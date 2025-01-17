@@ -34,8 +34,13 @@
 &nbsp;
 
 <p align="center" max-width="800px">
-  <strong>Modern tools built using the latest technology available. Create your next geo service using the most advanced digital software in the world.</strong>
+	<strong>Our Mission</strong>
 </p>
+<p align="center" max-width="800px">
+	<strong>Open-source digital GIS tools that are easy to use, cross-compatible with browsers, operating systems, and embedded platforms, while prioritizing accessibility by bridging the gap between data and its application.</strong>
+</p>
+
+&nbsp;
 
 **The Main Projects we Maintain**
 
