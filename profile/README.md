@@ -85,7 +85,7 @@
 [earclip]: https://github.com/Open-S2/earclip
 [glyph-gen]: https://github.com/Open-S2/glyph-gen
 [pbf]: https://github.com/Open-S2/pbf
-[unicode-shaper-rs]: https://github.com/Open-S2/unicode-shaper-rust
+[unicode-shaper]: https://github.com/Open-S2/unicode-shaper
 [s2-pmtiles]: https://github.com/Open-S2/s2-pmtiles
 [mapbox-vector-tile]: https://github.com/mapbox/vector-tile-js
 [s2-tilejson]: https://github.com/Open-S2/s2-tilejson
