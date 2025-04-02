@@ -59,7 +59,7 @@
 | ------------------------ | ------ | ----------------- | ---------------------------------------------------------------------------------------------- |
 | [s2maps-gpu]             | author | Typescript & Rust | High-performance, and GPU-accelerated map engine for rendering large-scale, interactive maps.  |
 | [earclip]                | author | Typescript & Rust | Fast and small polygon triangulation library with builtin tesselation.                         |
-| [unicode-shaper-rs]      | author | Rust              | Zero dep, `no_std`, light & fast library to prepare complex unicode patters for rendering.     |
+| [unicode-shaper]         | author | Typescript & Rust | Zero dep, `no_std`, light & fast library to prepare complex unicode patters for rendering.     |
 | style-engine (TBD)       | author | Typescript & Rust | A styling engine that uses [gis-tools] to build mapping data that can be used by [s2maps-gpu]. |
 
 <h3>Data Parsing/Tooling/Creation</h3>
