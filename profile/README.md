@@ -50,6 +50,7 @@
 | ------------------------ | ------ | ----------------- | ---------------------------------------------------------------------------------------------- |
 | [open-vector-tile]       | author | Typescript & Rust | A new Vector Tile Spec that is backwards compatible with [mapbox-vector-tile].                 |
 | [s2-pmtiles]             | author | Typescript & Rust | This library reads/writes PMTiles V3.0 as well as S2PMTiles V1.0                               |
+| [s2tiles]                | author | Typescript & Rust | This library reads/writes S2 Tiles V1.0                                                        |
 | [s2-tilejson]            | author | Typescript & Rust | TileJSON is a mostly [backwards-compatible] open standard for representing map metadata.       |
 | [s2json]                 | author | Typescript & Rust | S2JSON is a new standard build ontop of [GeoJSON] including 3D and S2 Geometry.                |
 
@@ -87,6 +88,7 @@
 [pbf]: https://github.com/Open-S2/pbf
 [unicode-shaper]: https://github.com/Open-S2/unicode-shaper
 [s2-pmtiles]: https://github.com/Open-S2/s2-pmtiles
+[s2tiles]: https://github.com/Open-S2/s2tiles
 [mapbox-vector-tile]: https://github.com/mapbox/vector-tile-js
 [s2-tilejson]: https://github.com/Open-S2/s2-tilejson
 [s2json]: https://github.com/Open-S2/s2json
